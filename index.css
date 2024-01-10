@@ -198,3 +198,56 @@
   margin: 0;
   padding: 0;
 }
+footer {
+  margin-top: 200px;
+}
+.style {
+  background: url("./images/L&L_ReadytoHydrate\ copy.png");
+  height: 50vh;
+  background-repeat: none;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.style-last {
+  /* height: 40vh; */
+  width: 100vw;
+  background-color: #f5f3ef;
+}
+.style-last div {
+  padding: 30px;
+}
+.style-last p {
+  font-size: 10px;
+}
+
+.style-last input {
+  padding: 0;
+  border: none;
+  background-color: #f5f3ef;
+  text-decoration: underline;
+}
+form button {
+  background: white;
+  font-size: 12px;
+}
+.form {
+  padding: 0;
+}
+
+.yy {
+  padding: 0;
+  margin: 0;
+}
+.yy div {
+  padding: 0;
+}
+.yy img {
+  width: 70%;
+}
+.yi {
+  display: flex;
+  align-items: center;
+}
