@@ -179,3 +179,22 @@
   font-size: 60px;
   line-height: 100%;
 }
+.third-row {
+  font-size: 10px;
+  margin-top: 50px;
+}
+.third-row img {
+  padding-top: 50px;
+  width: 140%;
+}
+.floatt {
+  margin: 0;
+  padding: 0;
+}
+.floatt img {
+  padding-top: 0;
+  width: 150%;
+  z-index: 1;
+  margin: 0;
+  padding: 0;
+}
