@@ -79,6 +79,15 @@
 .background div p {
   font-size: 50px;
 }
+.background div button {
+  margin-top: 10px;
+  padding: 5px;
+  color: black;
+  font-size: 15px;
+  background-color: white;
+  border-radius: 10px;
+  border-style: none;
+}
 .text1 {
   display: flex;
   justify-content: center;
@@ -109,7 +118,7 @@
   justify-content: center;
 }
 .emoji img {
-  width: 50%;
+  width: 100%;
   height: 50%;
 }
 .style-section {
@@ -154,6 +163,9 @@
 
 .right-part div {
   padding: 20px;
+}
+.right-part h1 {
+  color: green;
 }
 .right-part p {
   font-size: 10px;
